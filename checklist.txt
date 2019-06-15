@@ -30,7 +30,7 @@
 
 * Options
 [  ] All options available in the customizer and as meta boxes or widgets have been tested and are working.
-[  ] Enough documentation is included for custom front pages and similar to be easilly set up.
+[  ] Enough documentation is included for custom front pages and similar to be easily set up.
 
 * Readme file
 [  ] The readme.txt file has been validated.
