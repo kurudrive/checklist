@@ -36,8 +36,9 @@ No minified
 [  ] All the text, including placeholders and default values, is translation ready.
 
 * Screenshot
-[ failure ] The screenshot is not a logo or a mockup, and is easy to be reproduced.
--> Different from screenshot
+[ OK ] The screenshot is not a logo or a mockup, and is easy to be reproduced.
+->  I was succeed to build your screenshot view by refer follow the documentation.
+https://vedathemes.com/documentation/
 
 * Options
 [  ] All options available in the customizer and as meta boxes or widgets have been tested and are working.
