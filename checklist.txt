@@ -1,49 +1,56 @@
-https://themes.trac.wordpress.org/ticket/69510
+https://themes.trac.wordpress.org/ticket/73346
 
 == Checklist
 * License & Copyright
-[ failure ] A copyright statement for the theme is included in: (file name)
--> seems not copyright
 
-[ OK ] License and copyright information for all images, icons, fonts, scripts and styles is included in: readme.txt
+[  ] A copyright statement for the theme is included in: (file name)
+
+[  ] License and copyright information for all images, icons, fonts, scripts and styles is included in: (file name)
 
 * Scripts and styles
-[ OK ] All minified files are accompanied by non minified files.
-No minified
 
-[ OK ] All scripts and styles are enqueued.
+[  ] All minified files are accompanied by non minified files.
 
-[ OK ] Core versions of scripts are used (such as jquery and masonry).
-( Seems not use other scriots )
+[  ] All scripts and styles are enqueued.
 
-[ OK ] All scripts and resources are included, no CDN or similar remote files are used.
+[  ] Core versions of scripts are used (such as jquery and masonry).
+
+[  ] All scripts and resources are included, no CDN or similar remote files are used.
     (The only exception is Google Fonts)
-		-> seems not used
 
 * Basic security
-[ OK ] All customizer options, custom widgets and custom meta options are sanitized before saving.
-[ OK ] All options are escaped before output.
-[ OK ] Translated texts inside HTML attributes are escaped.
+
+[  ] All customizer options, custom widgets and custom meta options are sanitized before saving.
+
+[  ] All options are escaped before output.
+
+[  ] Translated texts inside HTML attributes are escaped.
 
 * PHP and JS errors
-[ OK ] There are no PHP notices, warnings and errors on PHP version 5.6 -current.
-[ OK ] There are no JS warnings or errors.
+
+[  ] There are no PHP notices, warnings and errors on PHP version 5.6 -current.
+
+[  ] There are no JS warnings or errors.
 
 * Plugins
-[ OK ] No plugins are required.
+
+[  ] No plugins are required.
 
 * Translations
+
 [  ] All the text, including placeholders and default values, is translation ready.
 
 * Screenshot
-[ OK ] The screenshot is not a logo or a mockup, and is easy to be reproduced.
-->  I was succeed to build your screenshot view by refer follow the documentation.
-https://vedathemes.com/documentation/
+
+[  ] The screenshot is not a logo or a mockup, and is easy to be reproduced.
 
 * Options
+
 [  ] All options available in the customizer and as meta boxes or widgets have been tested and are working.
+
 [  ] Enough documentation is included for custom front pages and similar to be easily set up.
 
 * Readme file
+
 [  ] The readme.txt file has been validated.
 (https://wordpress.org/plugins/developers/readme-validator/)
